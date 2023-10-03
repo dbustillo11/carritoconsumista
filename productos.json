@@ -1,0 +1,29 @@
+[
+	{
+		"precio": 3500,
+		"id": 1,
+		"title": "Remera de Messi - Barcelona",
+		"thumbnailUrl": "imgs/messi.jpg"
+	},
+
+	{
+		"precio": 3000,
+		"id": 2,
+		"title": "Remera de CR7 - Real Madrid",
+		"thumbnailUrl": "imgs/cr7.jpg"
+	},
+
+	{
+		"precio": 3000,
+		"id": 3,
+		"title": "Remera de Suárez - Liverpool",
+		"thumbnailUrl": "imgs/suarez.jpg"
+	},
+
+	{
+		"precio": 2500,
+		"id": 4,
+		"title": "Remera de Forlán - Villarreal",
+		"thumbnailUrl": "imgs/forlán.jpg"
+	}
+]
